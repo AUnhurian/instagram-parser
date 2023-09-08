@@ -1,10 +1,6 @@
 Instagram Parser
 =================
-[![License](https://poser.pugx.org/aunhurian/instagram-parser/license)](https://packagist.org/packages/aunhurian/instagram-parser)
-[![Build Status](https://travis-ci.org/mineur/twitter-stream-api.svg?branch=master)](https://travis-ci.org/mineur/twitter-stream-api)
-[![Code Climate](https://codeclimate.com/github/aunhurian/instagram-parser/badges/gpa.svg)](https://codeclimate.com/github/aunhurian/instagram-parser)
-[![Latest Unstable Version](https://poser.pugx.org/aunhurian/instagram-parser/v/unstable)](https://packagist.org/packages/aunhurian/instagram-parser)
-[![Total Downloads](https://poser.pugx.org/aunhurian/instagram-parser/downloads)](https://packagist.org/packages/aunhurian/instagram-parser)
+[![Latest Stable Version](http://poser.pugx.org/aunhurian/instagram-parser/v)](https://packagist.org/packages/aunhurian/instagram-parser) [![Total Downloads](http://poser.pugx.org/aunhurian/instagram-parser/downloads)](https://packagist.org/packages/aunhurian/instagram-parser) [![Latest Unstable Version](http://poser.pugx.org/aunhurian/instagram-parser/v/unstable)](https://packagist.org/packages/aunhurian/instagram-parser) [![License](http://poser.pugx.org/aunhurian/instagram-parser/license)](https://packagist.org/packages/aunhurian/instagram-parser) [![PHP Version Require](http://poser.pugx.org/aunhurian/instagram-parser/require/php)](https://packagist.org/packages/aunhurian/instagram-parser)
 
 The Instagram parser gives you an easy interface to parse all the Instagram's
 data. Like an API, but without being it! You can get posts by a tag, all user posts 
