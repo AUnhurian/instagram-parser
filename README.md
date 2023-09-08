@@ -1,17 +1,17 @@
 Instagram Parser
 =================
-[![License](https://poser.pugx.org/mineur/instagram-parser/license)](https://packagist.org/packages/mineur/instagram-parser)
+[![License](https://poser.pugx.org/aunhurian/instagram-parser/license)](https://packagist.org/packages/aunhurian/instagram-parser)
 [![Build Status](https://travis-ci.org/mineur/twitter-stream-api.svg?branch=master)](https://travis-ci.org/mineur/twitter-stream-api)
-[![Code Climate](https://codeclimate.com/github/mineur/instagram-parser/badges/gpa.svg)](https://codeclimate.com/github/mineur/instagram-parser)
-[![Latest Unstable Version](https://poser.pugx.org/mineur/instagram-parser/v/unstable)](https://packagist.org/packages/mineur/instagram-parser)
-[![Total Downloads](https://poser.pugx.org/mineur/instagram-parser/downloads)](https://packagist.org/packages/mineur/instagram-parser)
+[![Code Climate](https://codeclimate.com/github/aunhurian/instagram-parser/badges/gpa.svg)](https://codeclimate.com/github/aunhurian/instagram-parser)
+[![Latest Unstable Version](https://poser.pugx.org/aunhurian/instagram-parser/v/unstable)](https://packagist.org/packages/aunhurian/instagram-parser)
+[![Total Downloads](https://poser.pugx.org/aunhurian/instagram-parser/downloads)](https://packagist.org/packages/aunhurian/instagram-parser)
 
 The Instagram parser gives you an easy interface to parse all the Instagram's
 data. Like an API, but without being it! You can get posts by a tag, all user posts 
 
 ## Setup
 ```shell
-composer require mineur/instagram-parser:dev-master
+composer require aunhurian/instagram-parser:dev-master
 ```
 Before run your parsers, you first need a **query hash**. Follow this 5 steps to 
 get yours: [How to get a query hash](/docs/setup.md#how-to-get-your-query-hash-old-query-id).

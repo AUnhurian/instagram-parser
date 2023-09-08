@@ -14,4 +14,4 @@
 - [Contributing](contributing.md)
 - [To-do](todo.md)
 
-Also test the examples: [go to examples folder](https://github.com/mineur/instagram-parser/tree/master/examples)
+Also test the examples: [go to examples folder](https://github.com/aunhurian/instagram-parser/tree/master/examples)

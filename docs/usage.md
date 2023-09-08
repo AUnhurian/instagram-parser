@@ -3,7 +3,7 @@ Here I'll show you all possible usage of the Instagram Parser library.
 > Be careful! I recommend you to enqueue the output result and treat it 
 > separately, some of the Tags can have thousands of posts related to.
 
-You can also check out the [examples](https://github.com/mineur/instagram-parser/tree/master/examples) 
+You can also check out the [examples](https://github.com/aunhurian/instagram-parser/tree/master/examples) 
 folder and execute some of the use cases to test the library.
 
 ## Tags Parser

@@ -1,7 +1,7 @@
 # Setup
 ## Installation
 ```shell
-composer require mineur/instagram-parser:dev-master
+composer require aunhurian/instagram-parser:dev-master
 ```
 
 ## How to get your query hash (old: query id)
